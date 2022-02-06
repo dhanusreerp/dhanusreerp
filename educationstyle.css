@@ -1,0 +1,12 @@
+body{
+background-color:Black;
+font-size: 45px;
+color:White;
+background-image:url('educationbg.jpg');
+background-repeat:no-repeat;
+background-position:center;
+background-size: cover;
+position:relative;
+padding:15% 12.5% 12.5% 14%;
+font-family:"Fredericka the Great",Garamond, "Courier New";
+}

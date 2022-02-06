@@ -1,0 +1,12 @@
+body{
+background-color:Black;
+font-size: 45px;
+color:White;
+background-image:url('skillsbg.jpg');
+background-repeat:no-repeat;
+background-position:center;
+background-size: cover;
+position:relative;
+padding:8% 12.5% 12.5% 12%;
+font-family:"Merienda",Garamond, "Courier New";
+}
